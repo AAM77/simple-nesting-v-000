@@ -127,9 +127,9 @@ def adding_to_dennis
       :known_for => "Unix",
       :languages => ["C"]
     }
-
-		:dennis_ritchie[:languages] << "Assembly"
 	}
+
+	:dennis_ritchie[:languages] << "Assembly"
 
 
 end
