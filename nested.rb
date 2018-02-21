@@ -129,6 +129,6 @@ def adding_to_dennis
     }
 	}
 
-	return programmer_hash[dennis_ritchie]
+	return programmer_hash[:dennis_ritchie]
 
 end
