@@ -129,4 +129,6 @@ def adding_to_dennis
     }
 	}
 
+	return programmet_hash[dennis_ritchie]
+
 end
